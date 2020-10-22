@@ -9,3 +9,5 @@ cd lib&&make
 cd ..
 mv Makefile.config caffe
 cd caffe&&make clean&&make -j16
+cd ..
+cd caffe&&make pycaffe -j16
