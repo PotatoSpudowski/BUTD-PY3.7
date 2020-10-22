@@ -9,5 +9,3 @@ cd lib&&make
 cd ..
 mv Makefile.config caffe
 cd caffe&&make clean&&make -j16
-
-wget https://www.dropbox.com/s/nu6jwhc88ujbw1v/resnet101_faster_rcnn_final_iter_320000.caffemodel?dl=1 -O resnet101_faster_rcnn_final_iter_320000.caffemodel
