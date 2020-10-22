@@ -1,0 +1,1 @@
+wget https://www.dropbox.com/s/5xethd2nxa8qrnq/resnet101_faster_rcnn_final.caffemodel?dl=1 -O data/resnet101_faster_rcnn_final.caffemodel
